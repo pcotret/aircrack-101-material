@@ -1,0 +1,3 @@
+[submodule "password-dictionaries"]
+	path = password-dictionaries
+	url = https://github.com/pcotret/password-dictionaries
