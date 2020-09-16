@@ -3,4 +3,4 @@
 - Dictionaries extracted from a Kali Linux distro.
 - Sample PCAPs from `aircrack-ng`
 
-Update : 2020-01-15.
+Update : 2020-09-16.
